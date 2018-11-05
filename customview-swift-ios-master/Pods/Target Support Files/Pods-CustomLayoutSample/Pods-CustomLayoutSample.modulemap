@@ -1,0 +1,6 @@
+framework module Pods_CustomLayoutSample {
+  umbrella header "Pods-CustomLayoutSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
